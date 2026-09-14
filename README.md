@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+<!--Estudiante de Ingeniería de Sistemas enfocado en comprender y construir soluciones de software. Interesado en arquitectura de software, inteligencia artificial, redes, datos y ciberseguridad. Explorando tecnologías y desarrollando proyectos como parte de mi formación en ingeniería.
 **B3L70N/B3L70N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
